@@ -1,0 +1,6 @@
+[submodule "notebooks/gemini/generative-ai"]
+	path = notebooks/gemini/generative-ai
+	url = https://github.com/GoogleCloudPlatform/generative-ai.git
+[submodule "notebooks/vertexai-immersion"]
+	path = notebooks/vertexai-immersion
+	url = https://github.com/GoogleCloudPlatform/asl-ml-immersion.git
